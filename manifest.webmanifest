@@ -1,0 +1,16 @@
+{
+  "name": "블랙리스트 — 작전명 북극성",
+  "short_name": "블랙리스트",
+  "description": "국정원과 스파이단이 뒤섞인 첩보 소셜 추리 게임. 폰 1대로 AI와 훈련하거나, 각자 폰으로 합동 작전을 펼친다.",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0a0e14",
+  "theme_color": "#0a0e14",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
